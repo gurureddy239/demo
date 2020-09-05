@@ -2,3 +2,5 @@
 This is the first file in the demo
 
 Added a new line
+
+This is the conflict line
